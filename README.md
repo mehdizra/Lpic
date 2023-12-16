@@ -1,0 +1,2 @@
+# Lpic
+Linux persian booklet
